@@ -254,7 +254,7 @@ session_start();
 					select one of this: 
 					<br>
 					<input type="radio" name="gametype" id="TimetoComeback" value="TimetoComeback">Time To
-					Comeback
+					Back When Wrong
 					<br>
 					<input type="radio" name="gametype" id="TimetoComplete" value="TimetoComplete">Time To complete
 				</div>
